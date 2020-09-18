@@ -9,8 +9,7 @@
 Como apasionado de la tecnología y de la comunicación que soy, decidí abrirme un canal de youtube en el que analizo diferentes temas relativos a la tecnología, tanto reviws de gadgets, reparaciones, hackeos, etc. El canal está a punto de alcanzar las 20.000 visualizaciones, puedes echarle un vistazo pinchando <a href="https://www.youtube.com/channel/UCBmA7KGIfI_mYdq4mz-yrog/featured">AQUÍ</a>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Reportajes]
 
 ---
 ### En radio 
@@ -20,16 +19,9 @@ Como apasionado de la tecnología y de la comunicación que soy, decidí abrirme
 Como apasionado de la tecnología y de la comunicación que soy, decidí abrirme un canal de youtube en el que analizo diferentes temas relativos a la tecnología, tanto reviws de gadgets, reparaciones, hackeos, etc. El canal está a punto de alcanzar las 20.000 visualizaciones, puedes echarle un vistazo pinchando <a href="https://www.youtube.com/channel/UCBmA7KGIfI_mYdq4mz-yrog/featured">AQUÍ</a>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
 ### Escrito
 
-[Reviews de tecnología]()
+[Reviews de tecnología](/sample_page)
 <br><br>
 Como apasionado de la tecnología y de la comunicación que soy, decidí abrirme un canal de youtube en el que analizo diferentes temas relativos a la tecnología, tanto reviws de gadgets, reparaciones, hackeos, etc. El canal está a punto de alcanzar las 20.000 visualizaciones, puedes echarle un vistazo pinchando <a href="https://www.youtube.com/channel/UCBmA7KGIfI_mYdq4mz-yrog/featured">AQUÍ</a>
 
@@ -37,15 +29,11 @@ Como apasionado de la tecnología y de la comunicación que soy, decidí abrirme
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
-[Reviews de tecnología](/sample_page)
-<br><br>
-Como apasionado de la tecnología y de la comunicación que soy, decidí abrirme un canal de youtube en el que analizo diferentes temas relativos a la tecnología, tanto reviws de gadgets, reparaciones, hackeos, etc. Puedes echarle un vistazo pinchando <a href="https://www.youtube.com/in/adrianobserver/">AQUÍ</a>
-
 ---
 
-### Category Name 2
+### Otras cosas de interés:
 
-- [Project 1 Title](http://example.com/)
+- [Mi Curriculum Vitae](/pdf/sample_presentation.pdf)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
@@ -55,7 +43,7 @@ Como apasionado de la tecnología y de la comunicación que soy, decidí abrirme
 
 
 
-
+---
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
