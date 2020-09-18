@@ -6,7 +6,7 @@
 
 [Reviews de tecnología]()
 <br><br>
-Como apasionado de la tecnología y de la comunicación que soy, decidí abrirme un canal de youtube en el que analizo diferentes temas relativos a la tecnología, tanto reviws de gadgets, reparaciones, hackeos, etc. Puedes echarle un vistazo pinchando <a href="https://www.youtube.com/in/adrianobserver/">AQUÍ</a>
+Como apasionado de la tecnología y de la comunicación que soy, decidí abrirme un canal de youtube en el que analizo diferentes temas relativos a la tecnología, tanto reviws de gadgets, reparaciones, hackeos, etc. Puedes echarle un vistazo pinchando <a href="https://www.youtube.com/channel/UCBmA7KGIfI_mYdq4mz-yrog/featured">AQUÍ</a>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
