@@ -20,7 +20,7 @@ Hacer y escuchar radio es una de mis grandes pasiones. Desde que entré en la un
 
 [Artculos](/sample_page)
 <br><br>
-Publicar en papel es muy dificil, y aun no he tenido la oportunidad, sin embargo suelo publicar algunas cosas en mi perfil de medium. Alli escribo sobre todo tipo de temas, te invito a que te pases a leer alguno por <a href="https://www.youtube.com/channel/UCBmA7KGIfI_mYdq4mz-yrog/featured">AQUÍ</a>
+Publicar en papel es muy dificil, y aun no he tenido la oportunidad, sin embargo suelo publicar algunas cosas en mi perfil de medium. Alli escribo sobre todo tipo de temas, te invito a que te pases a leer alguno por <a href="https://medium.com/@adrianlopezsoler">AQUÍ</a>
 
 ---
 ### Otras cosas de interés:
