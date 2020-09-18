@@ -25,7 +25,7 @@ Publicar en papel es muy dificil, y aun no he tenido la oportunidad, sin embargo
 ---
 ### Otras cosas de interés:
 
-- [Mi Curriculum Vitae](/pdf/sample_presentation.pdf)
+- [Mi Curriculum Vitae](/pdf/CV_ALS_20.pdf)
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
