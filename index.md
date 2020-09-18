@@ -15,7 +15,7 @@ Hacer y escuchar radio es una de mis grandes pasiones. Desde que entré en la un
 Los guiones son la red neuronal de cualquier proyecto audiovisual, ya sea información o ficción. si quieres ver en profundidad cosas que he escrito, pulsa en el título de ésta sección o <a href="https://medium.com/@adrianlopezsoler">AQUÍ</a>. si quieres leer un articulo al azar, te dejo <a href="https://medium.com/@adrianlopezsoler">AQUÍ</a> mi última publicación en Medium. 
 
 ---
-[### Otros proyectos](/sample_page2)
+###[Otros proyectos](/sample_page2)
 
 [Otros proyectos](/sample_page2)
 <br><br>
