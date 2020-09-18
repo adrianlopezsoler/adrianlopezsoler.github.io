@@ -1,7 +1,7 @@
 # ¡Hola!
 
 ### En vídeo 
-#### En vídeo 
+#### Reviews de tecnología
 <br><br>
 Como apasionado de la tecnología y de la comunicación que soy, decidí abrirme un canal de youtube en el que analizo diferentes temas relativos a la tecnología, tanto reviws de gadgets, reparaciones, hackeos, etc. El canal está a punto de alcanzar las 20.000 visualizaciones, puedes echarle un vistazo pinchando <a href="https://www.youtube.com/channel/UCBmA7KGIfI_mYdq4mz-yrog/featured">AQUÍ</a>
 
