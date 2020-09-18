@@ -1,6 +1,6 @@
 # ¡Hola!
 ---
-### En vídeo 
+### En vídeo 🎥
 
 El vídeo es una de las formas mas completas de comunicación. Me encanta estar detrás de las cámaras así como delante de ella. Como en todo lo que hago, los temas de los que hablos son tan variados cómo mis intereses, que son muchísimos. Si haces clik en el título de esta sección o <a href="https://www.youtube.com/channel/UCBmA7KGIfI_mYdq4mz-yrog/featured">AQUÍ</a> podrás ver algunos vídeos que he hecho o en los que he participado. Si quieres uno rápido te dejo <a href="https://www.youtube.com/channel/UCBmA7KGIfI_mYdq4mz-yrog/featured">mi canal de youtube</a> sobre tecnología que acumula casi 20.000 visualizaciones. 
 
@@ -10,12 +10,12 @@ El vídeo es una de las formas mas completas de comunicación. Me encanta estar 
 Hacer y escuchar radio es una de mis grandes pasiones. Desde que entré en la universidad he participado en diversos proyectos: Con cascos y a lo loco, Radio Gorròn, o incluso en la radio universitaria Radio URJC. En todos estor proyectos he redactado, locutado y en ocasiones producido. También durante la carrera he realizado algunos reportajes, programas piloto y crónicas. Para conocer más en profundidad sobre mi relación con la radio pincha en el título de la sección o <a href="https://www.youtube.com/channel/UCBmA7KGIfI_mYdq4mz-yrog/featured">AQUÍ</a>. Si quieres ver un trabajo de radio al azar pincha <a href="https://www.youtube.com/channel/UCBmA7KGIfI_mYdq4mz-yrog/featured">aquí</a>.
 
 ---
-### En "papel"
+### En "papel" 📰
 
 Los guiones son la red neuronal de cualquier proyecto audiovisual, ya sea información o ficción. si quieres ver en profundidad cosas que he escrito, pulsa en el título de ésta sección o <a href="https://medium.com/@adrianlopezsoler">AQUÍ</a>. si quieres leer un articulo al azar, te dejo <a href="https://medium.com/@adrianlopezsoler">AQUÍ</a> mi última publicación en Medium. 
 
 ---
-###[Otros proyectos](/sample_page2)
+### Otros proyectos 🎬🎸🗺️🚀
 
 [Otros proyectos](/sample_page2)
 <br><br>
