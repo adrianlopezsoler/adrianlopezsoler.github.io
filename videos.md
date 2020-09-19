@@ -8,8 +8,3 @@ Me apasiona la tecnología y la ciencia. Estudio unas carreras de la rama de las
 ### 2. Video de producto
 is_oto set es un juego de madera que potencia la creatividad de todo aquel que juega. No importa la edad del jugador.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0F-k1ALqsWY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br>
-### 3. Support the selection of appropriate statistical tools and techniques
-
-
-### 4. Provide a basis for further data collection through surveys or experiments
