@@ -11,6 +11,12 @@ if (isAwesome){
   return true
 }
 ```
+<iframe id="inlineFrameExample"
+    title="Inline Frame Example"
+    width="300"
+    height="200"
+    src="https://www.youtube.com/watch?v=0Fkcr8lK1A8">
+</iframe>
 
 ### 2. Assess assumptions on which statistical inference will be based
 
