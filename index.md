@@ -17,7 +17,7 @@ Los guiones son la red neuronal de cualquier proyecto audiovisual, ya sea inform
 ---
 ### Otros proyectos 🎬🎸🗺️🚀
 
-[Otros proyectos](/sample_page2)
+[Otros proyectos](/video)
 <br><br>
 Soy bastante inquieto y curioso y casi siempre tengo algo nuevo entre manos. Haciendo click <a href="https://medium.com/@adrianlopezsoler">aquí</a> o en el título de la sección podras conocer un poco más sobre otros proyectos que no encajan en las otras secciones, ya sean profesionales o personales.
 
