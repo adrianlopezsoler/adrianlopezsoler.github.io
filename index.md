@@ -2,6 +2,8 @@
 ---
 ### En vídeo 🎥
 
+-[Más sobre vídeo](/video)
+
 El vídeo es una de las formas mas completas de comunicación. Me encanta estar detrás de las cámaras así como delante de ella. Como en todo lo que hago, los temas de los que hablos son tan variados cómo mis intereses, que son muchísimos. Si haces clik en el título de esta sección o <a href="https://www.youtube.com/channel/UCBmA7KGIfI_mYdq4mz-yrog/featured">AQUÍ</a> podrás ver algunos vídeos que he hecho o en los que he participado. Si quieres uno rápido te dejo <a href="https://www.youtube.com/channel/UCBmA7KGIfI_mYdq4mz-yrog/featured">mi canal de youtube</a> sobre tecnología que acumula casi 20.000 visualizaciones. 
 
 ---
