@@ -1,6 +1,6 @@
 # ¡Hola!
 ---
-### En vídeo 🎥
+[### En vídeo 🎥](/video)
 Estar delante y detrás de la cámara, mis motivaciones para comunicar. 
 
 [+ info](/video)
