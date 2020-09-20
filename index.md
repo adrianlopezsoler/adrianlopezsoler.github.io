@@ -28,6 +28,7 @@ Ser curioso e inquieto, mis valores para tener siempre algo nuevo entre manos.
 ### Otras cosas de interés:
 
 - [Mi Curriculum Vitae](/pdf/CV_ALS_20.pdf)
+- [Pruebas] (/sample_page)
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
