@@ -3,6 +3,7 @@
 ### En vídeo 🎥
 
 Estar delante y detrás de la cámara, mis motivaciones para comunicar. 
+
 [+ info](/video)
 <iframe width="320" height="180" src="https://www.youtube.com/embed/eC5kUzOueAI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
