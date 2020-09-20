@@ -2,7 +2,7 @@
 ---
 ### En vídeo 🎥
 
-+[info](/video)
+[+ info](/video)
 
 El vídeo es una de las formas mas completas de comunicación. Me encanta estar detrás de las cámaras así como delante de ella.
 <iframe width="320" height="180" src="https://www.youtube.com/embed/eC5kUzOueAI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
