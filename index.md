@@ -11,6 +11,7 @@ El vídeo es una de las formas mas completas de comunicación. Me encanta estar 
 ### En radio 📻
 
 Hacer y escuchar radio es una de mis grandes pasiones. Desde que entré en la universidad he participado en diversos proyectos: Con cascos y a lo loco, Radio Gorròn, o incluso en la radio universitaria Radio URJC. En todos estor proyectos he redactado, locutado y en ocasiones producido. También durante la carrera he realizado algunos reportajes, programas piloto y crónicas. Para conocer más en profundidad sobre mi relación con la radio pincha en el título de la sección o <a href="https://www.youtube.com/channel/UCBmA7KGIfI_mYdq4mz-yrog/featured">AQUÍ</a>. Si quieres ver un trabajo de radio al azar pincha <a href="https://www.youtube.com/channel/UCBmA7KGIfI_mYdq4mz-yrog/featured">aquí</a>.
+<iframe width="100%" height="200" frameborder="0" allowfullscreen="" scrolling="no" src="https://www.ivoox.com/player_ej_56766268_2_1.html?data=lpukmJuWepmhhpywj5WVaZS1lZeah5yncZKhhpywj5WRaZi3jpWah5yncaTm0NPWxcaPcYy5zZDX18jNs4zVzZDd1NTHaaSnhqam1YqWh4zgwpDQw9HRpYzVz9nS1ZDIqYzgwpDh0deRaZi3jqbR1M6Jh5SZopbbjbGJh5SZo5jdx9-RaZi3jpk.&"></iframe>
 
 ---
 ### En "papel" 📰
