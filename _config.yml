@@ -4,7 +4,9 @@ description: > # your text below (remove <br> elements if you don't need line br
   "Todo es interesante si se cuenta bien"
   <br><br>
   <a href="https://www.linkedin.com/in/adrianlopezsoler/">LinkedIn</a>
+  -
   <a href="https://www.instagram.com/adriantimes/">Instagram</a>
+  -
   <a href="https://www.twitter.com/adrilopezsoler/">Twitter</a>
   
 theme: jekyll-theme-minimal
