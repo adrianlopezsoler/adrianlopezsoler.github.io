@@ -1,10 +1,10 @@
 title: Adrián López Soler # your name (or website title) here
 logo: "/images/perfil_1.png?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
+description: > # your text below (remove <br> elements if you don't need line breaks) <a href="https://www.linkedin.com/in/adrianlopezsoler/">LinkedIn</a>
   <br><br>
   "Todo es interesante si se cuenta bien"
   <br><br>
-  <a href="https://www.linkedin.com/in/adrianlopezsoler/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/adrianlopezsoler/" target="_blank">LinkedIn</a>
   -
   <a href="https://www.instagram.com/adriantimes/">Instagram</a>
   -
