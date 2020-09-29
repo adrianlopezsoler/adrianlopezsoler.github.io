@@ -27,7 +27,7 @@ Ser curioso e inquieto, mis valores para tener siempre algo nuevo entre manos.
 ---
 ### Otras cosas de interés:
 
-- [Mi Curriculum Vitae](/pdf/CV_ALS_20.pdf)
+- [Mi Curriculum Vitae](/pdf/CV_ALS_20.pdf target="_blank")
 - [Pruebas] (/sample_page)
 
 ---
