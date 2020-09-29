@@ -1,7 +1,7 @@
 ## VÍDEO
 
 ### 1. Vídeos de tecnología
-Con casi 20.000 y creciendo, subo a mi canal de youtube vídeos de reviews, reparaciones y hackeos, así como de ciencia y tecnología. Puedes visitar <a href="https://www.youtube.com/channel/UCBmA7KGIfI_mYdq4mz-yrog/featured">aquí</a> el canal.
+Con casi 20.000 y creciendo, subo a mi canal de youtube vídeos de reviews, reparaciones y hackeos, así como de ciencia y tecnología. Puedes visitar <a href="https://www.youtube.com/channel/UCBmA7KGIfI_mYdq4mz-yrog/featured" target="_blank">aquí</a> el canal.
 <iframe width="320" height="180" src="https://www.youtube.com/embed/urI6YutHkPs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
 ### 2. Video de producto
