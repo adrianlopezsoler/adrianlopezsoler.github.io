@@ -19,10 +19,9 @@ Estar delante y detrás de la cámara, mis motivaciones para comunicar.
 Escribir guiones, mi batalla para cualquier proyecto audiovisual.
 
 ---
-### Otras cosas de interés:
+#### También te puede interesar:
 
 - [Mi Curriculum Vitae](/pdf/CV_ALS_20.pdf)
-- [Pruebas] (/sample_page)
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
