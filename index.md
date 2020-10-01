@@ -18,6 +18,7 @@ Estar delante y detrás de la cámara, mis motivaciones para comunicar.
 
 Escribir guiones, mi batalla para cualquier proyecto audiovisual.
 
+---
 ### Otras cosas de interés:
 
 - [Mi Curriculum Vitae](/pdf/CV_ALS_20.pdf)
