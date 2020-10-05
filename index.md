@@ -21,7 +21,7 @@ Escribir guiones, mi batalla para cualquier proyecto audiovisual.
 ---
 #### También te puede interesar:
 
-- [Mi Curriculum Vitae](/pdf/CV_ALS_20.pdf)
+- [Mi Curriculum Vitae](/pdf/ADRIAN LOPEZ SOLER CV 2020.pdf)
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
