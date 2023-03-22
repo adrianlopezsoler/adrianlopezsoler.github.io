@@ -16,7 +16,7 @@ Estar delante y detrás de la cámara, mis motivaciones para comunicar.
 ### En "papel" 📰
 [+ info](/papel)
 
-Escribir guiones, mi batalla para cualquier proyecto audiovisual.
+Plasmar en blanco sobre negro, el inicio de cualquier proyecto.
 
 ---
 #### También te puede interesar:
