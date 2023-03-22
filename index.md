@@ -21,7 +21,7 @@ Plasmar en blanco sobre negro, el inicio de cualquier proyecto.
 ---
 #### También te puede interesar:
 
-- [Mi Curriculum Vitae](/pdf/ADRIAN LOPEZ SOLER CV 2020.pdf)
+- [Mi Curriculum Vitae](/pdf/AdrianLopezSoler_CV_MAR2023.pdf)
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
