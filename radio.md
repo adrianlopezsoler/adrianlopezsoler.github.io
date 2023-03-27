@@ -1,4 +1,5 @@
-## RADIO
+## RADIO 📻
+---
 Cuando era muy pequeño cayó en mis manos una radio de publicidad de esas que se podían meter en la ducha. Sin embargo, yo la colgué de la correa de la persiana junto a mi cama, me la ponía para quedarme dormido. Desde entonces, no he parado de escuchar la radio. Desde hace unos años, he empezado a hacerla. Compaginando los estudios he participado en diversos proyectos: Con cascos y a lo loco, Radio Gorròn, o la radio universitaria Radio URJC. En estos proyectos he locutado, escrito y/o producido. 
 
 ### Juego de Escaños
