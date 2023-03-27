@@ -13,7 +13,7 @@ Este es uno de los primeros vídeos que hicimos en Fleming Films, la productora 
 <br>
 
 ### El hombre *en* la Tierra
-Una micro serie de nueve capítulos en el que analizamos al Hommo Sapiens moderno a través de un paródico y absurdo falso documental con un claro guiño a Felix Rodríguez de la Fuente. De esta serie creada para las redes sociales de Fleming Films, creamos el proyecto de serie de ficción Los Especímenes del Dr. Klaus, seleccionada en Ventana Sur.
+Una micro serie de nueve capítulos en el que analizamos al Hommo Sapiens moderno a través de un paródico y absurdo falso documental con un claro guiño a Félix Rodríguez de la Fuente. De esta serie creada para las redes sociales de Fleming Films, creamos el proyecto de serie de ficción Los Especímenes del Dr. Klaus, seleccionada en Ventana Sur.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jTTMwuZLUKo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <br>
 
