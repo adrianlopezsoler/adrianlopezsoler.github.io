@@ -1,14 +1,15 @@
 ## RADIO
-Compaginando los estudios he participado en diversos proyectos: Con cascos y a lo loco, Radio Gorròn, o incluso en la radio universitaria Radio URJC... donde he redactado, locutado y en ocasiones producido. También realicé reportajes, programas y crónicas. 
+Cuando era muy pequeño cayó en mis manos una radio de publicidad de esas que se podían meter en la ducha. Sin embargo, yo la colgué de la correa de la persiana junto a mi cama, me la ponía para quedarme dormido. Desde entonces, no he parado de escuchar la radio. Desde hace unos años, he empezado a hacerla. Compaginando los estudios he participado en diversos proyectos: Con cascos y a lo loco, Radio Gorròn, o la radio universitaria Radio URJC. En estos proyectos he locutado, escrito y/o producido. 
 
-### 1. Radio generalista
-Una práctica universitaria fue redactar y realizar una noticia en una hora, debajo tienes el resultado. En el home, hay una crónica realizada el día antes de que comenzara el juicio al procés.
-<iframe width="238" height="48" frameborder="0" allowfullscreen="" scrolling="no" src="https://www.ivoox.com/player_ek_56767940_2_1.html?data=lpukmJydeJGhhpywj5WUaZS1lpWah5yncZKhhpywj5WRaZi3jpWah5ynca_j1c7Qy8aPcYzAwtiY1tTWuNbbwtiYxsqPh8Li1YqwlYqmd46ZmKiao8nWrYa3lIquk9OPkIa3lIqvldXJvo6ZmKialg..&"></iframe>
+### Juego de Escaños
+En la universidad participé, junto a unos compañeros (un abrazo a Carmen, Pablo, Alberto, Marijose, Myriam y Sergio), en la creación de varios episodios piloto de posibles programas. En este piloto se cuenta la actualidad informativa a través de parodias de series conocidas, en este caso Juego de Tronos, dando lugar a Juego de Escaños.
+<iframe src="https://www.ivoox.com/player_ej_57205405_6_1.html?c1=76502e" width="100%" height="200" frameborder="0" allowfullscreen="" scrolling="no" loading="lazy"></iframe>
 <br>
-### 2. Podcast en inglés
+### Podcast en inglés
 Durante mi etapa en Estados Unidos hice amigos para toda la vida. Ya de vuelta en España, comencé a realizarles unos breves podcasts en inglés sobre mi vida en casa. Son unos episodios cortos, poco pulidos y locutados y mezclados por mi en directo, destinados a ser escuchados sólo por mis amigos yankees. Sin embargo puedes escuchar uno de ellos aquí abajo. 
-<iframe width="238" height="48" frameborder="0" allowfullscreen="" scrolling="no" src="https://www.ivoox.com/player_ek_57202016_2_1.html?data=lpyfkpeUdZehhpywj5WZaZS1kpmah5yncZKhhpywj5WRaZi3jpWah5yncbXcxpCuxtfNpc-fs8rd0dfYb46ZmKiao8nWrYa3lIquk9OPkIa3lIqvldXJvo6ZmKialg..&"></iframe>
+<iframe src="https://www.ivoox.com/player_ej_57202016_6_1.html?c1=762e2e" width="100%" height="200" frameborder="0" allowfullscreen="" scrolling="no" loading="lazy"></iframe>
 <br>
-### 3. Programas piloto
-En la universidad participé, junto a los compañeros de mi equipo (un abrazo a Carmen, Pablo, Alberto, Marijose, Myriam y Sergio), en la creación de varios episodios piloto de posibles programas. Abajo te dejo un programa de ficción sonora y actualidad política: Juego de Escaños.
-<iframe width="238" height="48" frameborder="0" allowfullscreen="" scrolling="no" src="https://www.ivoox.com/player_ek_57205405_2_1.html?data=lpyfkpqYdJahhpywj5eUaZS1k5qah5yncZKhhpywj5WRaZi3jpWah5yncavpxszcjcnJb6bnxMaSpZiJhpLj1JKSmaiRhcXmyoqwlYqldc-frYqwlYqmd9HZ25KSmaiReA..&"></iframe>
+### Otras prácticas en la universidad
+Dejo abajo un par de prácticas que hice en la universidad. Son una locución de noticia redactada y locutada en menos de una hora y una crónica de la plaza Villa de París la tarde anterior al comienzo del juicio del `procés`.
+<iframe src="https://www.ivoox.com/player_ej_56766268_6_1.html?c1=cebe0d" width="100%" height="200" frameborder="0" allowfullscreen="" scrolling="no" loading="lazy"></iframe>
+<iframe src="https://www.ivoox.com/player_ej_56767940_6_1.html?c1=0e6218" width="100%" height="200" frameborder="0" allowfullscreen="" scrolling="no" loading="lazy"></iframe>
