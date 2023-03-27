@@ -1,7 +1,7 @@
 # ¡Hola!
 ---
 ### [Radio 📻](/radio)
-<iframe width="238" height="48" frameborder="0" allowfullscreen="" scrolling="no" src="https://www.ivoox.com/player_ek_56766268_2_1.html?data=lpukmJuWepmhhpywj5WVaZS1lZeah5yncZKhhpywj5WRaZi3jpWah5yncaTm0NPWxcaPcYy5zZDX18jNs4zVzZDd1NTHaaSnhqam1YqWh4zgwpDQw9HRpYzVz9nS1ZDIqYzgwpDh0deRaZi3jqbR1M6Jh5SZopbbjbGJh5SZo5jdx9-RaZi3jpk.&"></iframe>
+<iframe src="https://www.ivoox.com/player_ej_56766268_6_1.html?c1=474747" width="100%" height="200" frameborder="0" allowfullscreen="" scrolling="no" loading="lazy"></iframe>
 ---
 ### En vídeo 🎥
 Estar delante y detrás de la cámara, mis motivaciones para comunicar. 
@@ -29,7 +29,7 @@ Plasmar en blanco sobre negro, el inicio de cualquier proyecto.
 <!--Hacer y escuchar radio es una de mis grandes pasiones. Desde que entré en la universidad he participado en diversos proyectos: Con cascos y a lo loco, Radio Gorròn, o incluso en la radio universitaria Radio URJC. En todos estor proyectos he redactado, locutado y en ocasiones producido. También durante la carrera he realizado algunos reportajes, programas piloto y crónicas. Para conocer más en profundidad sobre mi relación con la radio pincha en el título de la sección o <a href="https://www.youtube.com/channel/UCBmA7KGIfI_mYdq4mz-yrog/featured">AQUÍ</a>. Si quieres ver un trabajo de radio al azar pincha <a href="https://www.youtube.com/channel/UCBmA7KGIfI_mYdq4mz-yrog/featured">aquí</a>.-->
 <!--Los guiones son la red neuronal de cualquier proyecto audiovisual, ya sea información o ficción. si quieres ver en profundidad cosas que he escrito, pulsa en el título de ésta sección o <a href="https://medium.com/@adrianlopezsoler">AQUÍ</a>. si quieres leer un articulo al azar, te dejo <a href="https://medium.com/@adrianlopezsoler">AQUÍ</a> mi última publicación en Medium. -->
 <!-- Soy bastante inquieto y curioso y casi siempre tengo algo nuevo entre manos. Haciendo click <a href="https://medium.com/@adrianlopezsoler">aquí</a> o en el título de la sección podras conocer un poco más sobre otros proyectos que no encajan en las otras secciones, ya sean profesionales o personales.-->
-<!-- ---
+<!-- <iframe width="238" height="48" frameborder="0" allowfullscreen="" scrolling="no" src="https://www.ivoox.com/player_ek_56766268_2_1.html?data=lpukmJuWepmhhpywj5WVaZS1lZeah5yncZKhhpywj5WRaZi3jpWah5yncaTm0NPWxcaPcYy5zZDX18jNs4zVzZDd1NTHaaSnhqam1YqWh4zgwpDQw9HRpYzVz9nS1ZDIqYzgwpDh0deRaZi3jqbR1M6Jh5SZopbbjbGJh5SZo5jdx9-RaZi3jpk.&"></iframe>
 ### Otros proyectos 🎬🎸🗺️🚀
 [+ info](/otrosproyectos)
 
