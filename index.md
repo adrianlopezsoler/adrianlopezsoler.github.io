@@ -1,21 +1,10 @@
 # ¡Hola!
 ---
 ### [Radio 📻](/radio)
-<iframe src="https://www.ivoox.com/player_ej_56766268_6_1.html?c1=474747" width="100%" height="200" frameborder="0" allowfullscreen="" scrolling="no" loading="lazy"></iframe>
-
 ---
-### En vídeo 🎥
-Estar delante y detrás de la cámara, mis motivaciones para comunicar. 
-
-[+ info](/video)
-<iframe width="320" height="180" src="https://www.youtube.com/embed/eC5kUzOueAI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+###  [En vídeo 🎥](/video)
 ---
-### En "papel" 📰
-[+ info](/papel)
-
-Plasmar en blanco sobre negro, el inicio de cualquier proyecto.
-
+### [En "papel" 📰](/papel)
 ---
 #### También te puede interesar:
 
