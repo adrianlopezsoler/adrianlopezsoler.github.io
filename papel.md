@@ -10,17 +10,17 @@ En algún momento de la primavera de este 2023 se va a producir la mayor noticia
 <br>
 
 ### <a href="https://adrianlopezsoler.medium.com/arqueología-fotográfica-9aefd9cedfba">🔗 Arqueología fotográfica:</a>
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<a href="https://adrianlopezsoler.medium.com/arqueología-fotográfica-9aefd9cedfba"><img src="images/AF.jpg?raw=true"/></a>
 Uno de mis pequeños placeres culpables es comprar cámaras analógicas, sobre todo si son baratas y con algo que reparar. En este artículo escribo sobre como fue encontrar un carrete ya puesto en una de ellas.
 <br>
 
 ### <a href="https://adrianlopezsoler.medium.com/la-foto-no-famosa-de-dorothea-lange-1f85b0c3e439" target="_blank">🔗 La foto no famosa de Dorothea Lange:</a>
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<a href="https://adrianlopezsoler.medium.com/la-foto-no-famosa-de-dorothea-lange-1f85b0c3e439" target="_blank"><img src="images/Dorothea.jpg?raw=true"/></a>
 El análisis es una de las mejores maneras de aprendizaje. Aprendes a observar, a fijarte, a sintetizar, a estructurar, a formular. El acto de analizar te obliga a posicionarte, a elegir y sobre todo a pensar. En realidad creo que cualquier pieza periodística, ya sea escrita o visual, parte o se basa en un análisis por parte del periodista. En la universidad analizamos un montón de fotografías, planos y escritos. Éste análisis es un ejemplo de ello. 
 <br>
 
 ### <a href="https://medium.com/@adrianlopezsoler/nayib-bukele-hace-historia-en-el-salvador-al-romper-con-el-bipartidismo-y-convertirse-en-el-nuevo-2178365314a2" target="_blank">🔗 Nayib Bukele, nuevo presidente de El Salvador:</a>
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<a href="https://medium.com/@adrianlopezsoler/nayib-bukele-hace-historia-en-el-salvador-al-romper-con-el-bipartidismo-y-convertirse-en-el-nuevo-2178365314a2" target="_blank"><img src="images/Bukele.jpg?raw=true"/></a>
 Pequeña noticia redactada en una clase de la universidad para informar sobre la investidura como presidente de Nayib Bukele.
 <br>
 
