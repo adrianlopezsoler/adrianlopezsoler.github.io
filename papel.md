@@ -4,7 +4,7 @@ Escribir es siempre el paso previo. La antesala. Hagas lo que hagas, hay que enf
 <br>
 
 ### <a href="https://adrianlopezsoler.medium.com/así-ha-sido-el-viaje-del-cohete-mirua-1-de-pld-space-hasta-la-plataforma-de-lanzamiento-1a67004315d0">🔗 PLD Space:</a>
-<a href="https://adrianlopezsoler.medium.com/así-ha-sido-el-viaje-del-cohete-mirua-1-de-pld-space-hasta-la-plataforma-de-lanzamiento-1a67004315d0"><img src="images/dummy_thumbnail.jpg?raw=true"/></a>
+<a href="https://adrianlopezsoler.medium.com/así-ha-sido-el-viaje-del-cohete-mirua-1-de-pld-space-hasta-la-plataforma-de-lanzamiento-1a67004315d0"><img src="images/PLDSpace.jpg?raw=true"/></a>
 
 En algún momento de la primavera de este 2023 se va a producir la mayor noticia jamás contada en el ámbito espacial español: el lanzamiento del primer cohete *made in Spain*; que por si fuera poco, se va a llevar a cabo desde España. Así empieza este artículo que narra el camino recorrido por el cohete Miura 1.
 <br>
