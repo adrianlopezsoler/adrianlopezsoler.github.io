@@ -11,7 +11,7 @@ En algún momento de la primavera de este 2023 se va a producir la mayor noticia
 
 ### <a href="https://adrianlopezsoler.medium.com/arqueología-fotográfica-9aefd9cedfba">🔗 Arqueología fotográfica:</a>
 <a href="https://adrianlopezsoler.medium.com/arqueología-fotográfica-9aefd9cedfba"><img src="images/AF.jpg?raw=true"/></a>
-Uno de mis pequeños placeres culpables es comprar cámaras analógicas, sobre todo si son baratas y con algo que reparar. En este artículo escribo sobre como fue encontrar un carrete ya puesto en una de ellas.
+Uno de mis pequeños placeres culpables es comprar cámaras analógicas, sobre todo si son baratas y con algo que reparar. En este artículo escribo sobre cómo fue encontrar un carrete ya puesto en una de ellas.
 <br>
 
 ### <a href="https://adrianlopezsoler.medium.com/la-foto-no-famosa-de-dorothea-lange-1f85b0c3e439" target="_blank">🔗 La foto no famosa de Dorothea Lange:</a>
