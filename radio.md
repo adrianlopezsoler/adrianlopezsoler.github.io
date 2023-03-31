@@ -8,7 +8,7 @@ En la universidad participé, junto a unos compañeros (un abrazo a Carmen, Pabl
 <br>
 
 ### Podcast en inglés
-Durante mi etapa en Estados Unidos hice amigos para toda la vida. Ya de vuelta en España, comencé a realizarles unos breves podcasts en inglés sobre mi vida en casa. Son unos episodios cortos, poco pulidos y locutados y mezclados por mi en directo, destinados a ser escuchados sólo por mis amigos yankees. Sin embargo puedes escuchar uno de ellos aquí abajo. 
+Durante mi etapa en Estados Unidos hice amigos para toda la vida. Ya de vuelta en España, comencé a realizarles unos breves podcasts en inglés sobre mi vida en casa. Son unos episodios cortos, poco pulidos y locutados y mezclados por mí en directo, destinados a ser escuchados solo por mis amigos yankees. Sin embargo puedes escuchar uno de ellos aquí abajo. 
 <iframe src="https://www.ivoox.com/player_ej_57202016_6_1.html?c1=762e2e" width="100%" height="200" frameborder="0" allowfullscreen="" scrolling="no" loading="lazy"></iframe>
 <br>
 
