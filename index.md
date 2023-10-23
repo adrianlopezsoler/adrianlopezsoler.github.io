@@ -1,6 +1,6 @@
 # ¡Hola!
 ---
-### [Onda Cero 🎙️](/radio)
+### [Onda Cero 🎙️](/ondacero)
 ---
 ### [Otros proyectos de radio 📻](/radio)
 ---
