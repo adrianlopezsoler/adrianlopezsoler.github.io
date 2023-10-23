@@ -12,7 +12,7 @@ En <a href="https://www.ondacero.es/programas/mas-de-uno/audios-podcast/cuentame
 <iframe frameborder='0' allowfullscreen='' scrolling='no' height='200' style='width:100%;' src='https://www.ivoox.com/player_ej_113715530_6_1.html?c1=3B985C' loading='lazy'></iframe>
 <br>
 
-### <a href="https://www.ondacero.es/programas/mas-de-uno/audios-podcast/charla-espana-alemania-nina-hagen-rosalia-frialdad-alemanes-otros-topicos_2023080964d37e69502f1e0001db2cb7.html">Qué sabemos de...</a>
+### <a href="https://www.ondacero.es/programas/mas-de-uno/audios-podcast/que-sabemos/segunda-mano-ano-2020-venta-libros-usados-crecido-mas-30-nuestro-pais_2023083164f059969598e30001a02c6c.html">Qué sabemos de...</a>
 Durante mi paso por Más de Uno pude producir y escribir muchas entregas de esta mítica sección del programa. En alguna ocasión también tuve la oportunidad de participar en antena, como en esta, en la que hablamos sobre el mercado de la segunda mano.
 <iframe frameborder='0' allowfullscreen='' scrolling='no' height='200' style='width:100%;' src='https://www.ivoox.com/player_ej_115225667_6_1.html?c1=3B985C' loading='lazy'></iframe>
 <br>
