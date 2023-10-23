@@ -17,6 +17,6 @@ Durante mi paso por Más de Uno pude producir y escribir muchas entregas de esta
 <iframe frameborder='0' allowfullscreen='' scrolling='no' height='200' style='width:100%;' src='https://www.ivoox.com/player_ej_115225667_6_1.html?c1=3B985C' loading='lazy'></iframe>
 <br>
 
-### La IA
+### <a href="https://www.ondacero.es/programas/mas-de-uno/audios-podcast/aprender-utilizar-inteligencia-artificial-como-herramienta-mas-arsenal-periodista_2023073164c78dcbbcaee00001b34924.html">La IA</a>
 Para mantenernos al tanto de las nuevas tecnologías creamos esta sección en la que una inteligencia artificial era la "encargada" de hacer la sección.
 <iframe loading="lazy" src="https://www.ondacero.es/embed/aprender-utilizar-inteligencia-artificial-como-herramienta-mas-arsenal-periodista/audio/2/2023/07/31/64c78cd3da34b0e4b4bbb19b" width="560" height="315" frameborder="0" scrolling="no" allowfullscreen></iframe>
