@@ -10,7 +10,7 @@
 ---
 #### También te puede interesar:
 
-- [Mi Curriculum Vitae](pdf/AdriánLópezSoler_CV_ABR2023.pdf)
+- [Mi Curriculum Vitae](pdf/AdrianLopezSoler_CV_OCT2023.pdf)
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
