@@ -1,6 +1,6 @@
 # ¡Hola!
 ---
-### [Cadena SER 📻](/https://cadenaser.com/autor/adrian_lopez_soler/a/)
+### [Cadena SER 📻](href="https://cadenaser.com/autor/adrian_lopez_soler/a/")
 ---
 ### [Onda Cero 🎙️](/ondacero)
 ---
@@ -12,7 +12,7 @@
 ---
 #### También te puede interesar:
 
-- [Mi Curriculum Vitae](pdf/adrian lopez cv 2024 v11.pdf)
+- [Mi Curriculum Vitae](pdf/ adrian lopez cv 2024 v11.pdf)
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
