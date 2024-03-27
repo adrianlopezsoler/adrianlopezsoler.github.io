@@ -1,5 +1,7 @@
 # ¡Hola!
 ---
+### [Cadena SER 📻](/https://cadenaser.com/autor/adrian_lopez_soler/a/)
+---
 ### [Onda Cero 🎙️](/ondacero)
 ---
 ### [Otros proyectos de radio 📻](/radio)
