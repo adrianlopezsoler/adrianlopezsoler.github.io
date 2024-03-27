@@ -1,6 +1,6 @@
 # ¡Hola!
 ---
-### [Cadena SER 📻](<a href="https://github.com/evanca/quick-portfolio">evanca</a>)
+### [Cadena SER 📻](https://cadenaser.com/autor/adrian_lopez_soler/a/)
 ---
 ### [Onda Cero 🎙️](/ondacero)
 ---
