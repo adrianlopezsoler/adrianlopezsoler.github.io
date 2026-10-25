@@ -12,7 +12,7 @@
 ---
 #### También te puede interesar:
 
-- [Mi Curriculum Vitae](pdf/ALS CV - 2026 - ICEX - es.pdf)
+- [Mi Curriculum Vitae](pdf/ALS_CV_in_es.pdf)
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
